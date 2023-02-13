@@ -1,8 +1,8 @@
 ### Olá! Meu nome é Isabella, tenho 19 anos e estou cursando ADS.
 <div align="center">
   <a href="https://github.com/isahonorato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isahonorato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isahonorato&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isahonorato&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isahonorato&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,8 +16,13 @@
   <img align="center" alt="Isa-dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Isa-dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 </div>
+
+##
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isahonorato&theme=cobalt&repo=Exercicios-Csharp)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isahonorato&theme=cobalt&repo=Exercicios-Python)
   
-  ##
+##
  
   ![Snake animation](https://github.com/isahonorato/isahonorato/blob/output/github-contribution-grid-snake.svg)
  
