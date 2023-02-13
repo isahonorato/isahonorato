@@ -19,8 +19,8 @@
 
 ##
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isahonorato&theme=cobalt&repo=Exercicios-Csharp)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isahonorato&theme=cobalt&repo=Exercicios-Python)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isahonorato&theme=cobalt&text_color=&repo=Exercicios-Csharp)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isahonorato&theme=cobalt&text_color=&repo=Exercicios-Python)
   
 ##
  
