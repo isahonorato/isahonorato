@@ -1,4 +1,4 @@
-### Olá! Meu nome é Isabella, tenho 19 anos e estou cursando ADS.
+### Olá! Meu nome é Isabella, tenho 19 anos e estou cursando ADS. :)
 <div align="center">
   <a href="https://github.com/isahonorato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isahonorato&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
