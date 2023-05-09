@@ -2,8 +2,8 @@
 ##
 <div align="center">
   <a href="https://github.com/isahonorato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isahonorato&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isahonorato&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isahonorato&show_icons=true&theme=cobalt&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isahonorato&layout=compact&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Isa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -16,11 +16,6 @@
   <img align="center" alt="Isa-vs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Isa-vsc0de" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 </div>
-
-##
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isahonorato&theme=cobalt&text_color=&repo=Exercicios-Csharp)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isahonorato&theme=cobalt&text_color=&repo=Exercicios-Python)
 
 ##
  
