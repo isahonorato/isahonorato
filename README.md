@@ -1,4 +1,4 @@
-### Oi, meu nome é Isabella, tenho 19 anos e estou cursando ADS. :)
+### Oi, meu nome é Isabella, tenho 20 anos e estou cursando ADS. :)
 ##
 <div align="center">
   <a href="https://github.com/isahonorato">
