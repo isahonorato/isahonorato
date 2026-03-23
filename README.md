@@ -1,4 +1,3 @@
-### Oi, meu nome é Isabella, tenho 21 anos e estou cursando ADS. :)
 ##
 <div align="center">
   <a href="https://github.com/isahonorato">
